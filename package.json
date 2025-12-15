@@ -30,7 +30,7 @@
     "mime-types": "^3.0.1"
   },
   "devDependencies": {
-    "@types/node": "^24.10.1",
+    "@types/node": "^25.0.2",
     "@vitest/coverage-v8": "^4.0.10",
     "esbuild": "^0.27.0",
     "eslint": "^9.39.1",
