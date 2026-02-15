@@ -2,7 +2,7 @@
 
 Convert local and remote images to data URI scheme for inline embedding.
 
-[![CI](https://github.com/vnykmshr/imguri/workflows/CI/badge.svg)](https://github.com/vnykmshr/imguri/actions)
+[![CI](https://github.com/1mb-dev/imguri/workflows/CI/badge.svg)](https://github.com/1mb-dev/imguri/actions)
 [![npm version](https://img.shields.io/npm/v/imguri.svg)](https://www.npmjs.com/package/imguri)
 [![npm downloads](https://img.shields.io/npm/dm/imguri.svg)](https://www.npmjs.com/package/imguri)
 [![Node version](https://img.shields.io/node/v/imguri.svg)](https://nodejs.org)

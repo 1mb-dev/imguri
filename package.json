@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/vnykmshr/imguri.git"
+    "url": "git+https://github.com/1mb-dev/imguri.git"
   },
   "keywords": [
     "data-uri",
@@ -55,8 +55,9 @@
   ],
   "author": "Vinayak Mishra",
   "license": "MIT",
+  "homepage": "https://github.com/1mb-dev/imguri#readme",
   "bugs": {
-    "url": "https://github.com/vnykmshr/imguri/issues"
+    "url": "https://github.com/1mb-dev/imguri/issues"
   },
   "files": [
     "dist",

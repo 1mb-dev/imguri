@@ -358,7 +358,7 @@ for (const [path, result] of results) {
 
 Data URI encoding is a focused problem with specific technical requirements: secure file access, reliable HTTP operations, and efficient concurrency. The architecture presented here demonstrates that production-ready solutions don't require complex abstractions - two layers, clear responsibilities, and practical trade-offs deliver a maintainable, performant library.
 
-The full implementation is available at [vnykmshr/imguri](https://github.com/vnykmshr/imguri) under MIT license. Contributions and feedback welcome.
+The full implementation is available at [1mb-dev/imguri](https://github.com/1mb-dev/imguri) under MIT license. Contributions and feedback welcome.
 
 ---
 

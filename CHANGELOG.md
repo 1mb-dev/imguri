@@ -137,6 +137,6 @@ encodeLegacy(['image.png'], { force: false }, (err, results) => {
 });
 ```
 
-[1.0.0]: https://github.com/vnykmshr/imguri/compare/v0.0.6...v1.0.0
-[0.0.6]: https://github.com/vnykmshr/imguri/releases/tag/v0.0.6
-[0.0.5]: https://github.com/vnykmshr/imguri/releases/tag/v0.0.5
+[1.0.0]: https://github.com/1mb-dev/imguri/compare/v0.0.6...v1.0.0
+[0.0.6]: https://github.com/1mb-dev/imguri/releases/tag/v0.0.6
+[0.0.5]: https://github.com/1mb-dev/imguri/releases/tag/v0.0.5
