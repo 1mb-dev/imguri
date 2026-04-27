@@ -18,6 +18,10 @@ updates:
         update-types:
           - "minor"
           - "patch"
+    # Major-bump hold (revisit 2026-05-27): eslint 10
+    ignore:
+      - dependency-name: "eslint"
+        update-types: ["version-update:semver-major"]
 
   - package-ecosystem: "github-actions"
     directory: "/"
