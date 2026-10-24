@@ -16,7 +16,7 @@ Convert local and remote images to data URI scheme for inline embedding.
 - Path traversal protection
 - Native fetch API, no deprecated dependencies
 
-**Requirements:** Node.js >= 18.0.0
+**Requirements:** Node.js >= 22
 
 ## Installation
 
