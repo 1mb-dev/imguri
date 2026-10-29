@@ -31,6 +31,9 @@ updates:
     ignore:
       - dependency-name: "eslint"
         update-types: ["version-update:semver-major"]
+      # nock 15: 10 tests fail on Node 22, pass on 24 (#90). Revisit 2027-01-29.
+      - dependency-name: "nock"
+        update-types: ["version-update:semver-major"]
 
   - package-ecosystem: "github-actions"
     directory: "/"
