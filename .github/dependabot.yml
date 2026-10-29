@@ -20,6 +20,10 @@ updates:
           - "vitest"
           - "@vitest/*"
       minor-and-patch:
+        # Dependabot ranks this group above 'vitest' for @vitest/* and splits them out again.
+        exclude-patterns:
+          - "vitest"
+          - "@vitest/*"
         update-types:
           - "minor"
           - "patch"
